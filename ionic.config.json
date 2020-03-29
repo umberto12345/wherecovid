@@ -1,0 +1,7 @@
+{
+  "name": "wherecovid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
